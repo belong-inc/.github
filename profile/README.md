@@ -13,20 +13,6 @@ Our mission is `Deliver next value to where we belong`, and we are working for t
 
 For more details, please see our [home page](https://about.belong.co.jp/).
 
----
-
-Belong はモバイルデバイスのエコシステムを構築しています。「大切な人に誇れる、次なる価値を届けよう」というミッションを掲げ、以下のバリューを大切にしています。
-
-1. Be Honest - お客様に、チームに正直
-    * 中古だからこそ、端末の状態を正直にお伝えします。Belongチーム同士も、お互いへの正直さを徹底しています
-2. Be United - 一致団結して、助け合う
-    * 「それは自分の領域じゃない」と壁を作らず、Belongは困難に対して、助け合いの力で挑戦します
-3. Make a Contribution - チームや社会に貢献
-     1. ただ漫然と与えられた仕事をこなしていないか？チームや社会への貢献度がBelongの物差しです
-
-弊社の詳細は [弊社HP](https://about.belong.co.jp/) にて確認可能です。
-
-
 ## Services
 Please check [our service page](https://about.belong.co.jp/services/)
 
